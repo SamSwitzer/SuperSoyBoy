@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 6109004567190671379}
   - component: {fileID: 6109004567190671389}
   - component: {fileID: 75460629}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SoyBoy
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -106,7 +106,7 @@ Rigidbody2D:
   m_Material: {fileID: 0}
   m_Interpolate: 0
   m_SleepingMode: 1
-  m_CollisionDetection: 0
+  m_CollisionDetection: 1
   m_Constraints: 4
 --- !u!68 &6109004567190671379
 EdgeCollider2D:
