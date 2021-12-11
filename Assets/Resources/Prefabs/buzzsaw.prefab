@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 2188932532463145389}
   - component: {fileID: 65169100}
   - component: {fileID: 5108255314285372388}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: buzzsaw
   m_TagString: Untagged
   m_Icon: {fileID: 0}
